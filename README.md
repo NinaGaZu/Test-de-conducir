@@ -36,11 +36,13 @@ Una aplicación interactiva desarrollada en **HTML, CSS y JavaScript modular** p
 
 1. Clona este repositorio:
 
-git clone https://github.com/NinaGaZu/test-teorico.git
+git clone https://github.com/NinaGaZu/Test-de-conducir.git
 
 2. Abre el archivo index.html en tu navegador (doble clic o con Live Server si usas VSCode).
 
   💡 No se requiere servidor ni instalación de dependencias.
+
+---
 
 ## 👩‍💻 Autor/a
 NinaGaZu
@@ -48,11 +50,13 @@ Aprendiz de desarrollo web apasionada por la tecnología, la educación y la mej
 
 📫 Contacto: gianinagaete@gmail.com
 
+---
 
 ## 📄 Licencia
+
 Este proyecto está bajo la Licencia MIT. Puedes usarlo, modificarlo y distribuirlo libremente con atribución.
 
-
+---
 
 ## 🧭 Próximos pasos (opcional)
 - Agregar puntaje final y retroalimentación por sección
