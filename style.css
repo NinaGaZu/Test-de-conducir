@@ -16,7 +16,7 @@ body {
 /* Layout principal del quiz */
 .quiz-layout {
   display: grid;
-  grid-template-columns: 250px 1fr;
+  grid-template-columns: 350px 1fr;
   gap: 30px;
   margin-bottom: 30px;
 }
@@ -121,7 +121,7 @@ body {
 
 /* Contenedor principal */
 .container {
-  max-width: 800px;
+  max-width: 1100px;
   margin: 0 auto;
   background: white;
   padding: 30px;
@@ -140,6 +140,12 @@ h1 {
 /* Formulario del quiz */
 #quiz-form {
   margin-bottom: 30px;
+}
+
+.quiz-subtitle {
+  font-size: 1.2rem;
+  font-weight: 600;
+  padding-bottom: 1rem;
 }
 
 /* Cada pregunta */
