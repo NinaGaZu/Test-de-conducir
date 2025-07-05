@@ -13,8 +13,7 @@ Una aplicación interactiva desarrollada en **HTML, CSS y JavaScript modular** p
 - 💡 Retroalimentación inmediata al seleccionar una respuesta
 - 📱 Diseño responsive (adaptado para dispositivos móviles)
 - 🧩 Estructura modular en JavaScript (separación de lógica, datos y UI)
-- 🌙 Tema oscuro/claro *(opcional si lo estás implementando)*
-- ♿ Accesibilidad básica para navegación con teclado *(opcional si aplica)*
+
 
 ---
 
