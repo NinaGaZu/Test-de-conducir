@@ -493,4 +493,419 @@ export const questions = [
     ],
     answer: 1, 
   },
-]
+  
+  {
+    question: "Antes de poner un vehículo en marcha el conductor debe verificar:",
+    options: [
+      "El funcionamiento del tubo de escape.",
+      "El funcionamiento del freno, embrague e instrumentos del tablero.",
+      "El estado de la carrocería.",
+    ],
+    answer: 1, 
+  },
+  {
+    question: "Lo que recibe la fuerza de la explosión de un motor se denomina:",
+    options: [
+      "Pistón.",
+      "Biela.",
+      "Cigueñal.",
+    ],
+    answer: 0, 
+  },
+  {
+    question: "La función del filtro de aceite es:",
+    options: [
+      "Restituir la viscosidad del aceite.",
+      "Retener las particulas gruesas del aceite.",
+      "Separar el combustible del aceite.",
+    ],
+    answer: 1, 
+  },
+  {
+    question: "La función del filtro del aire es:",
+    options: [
+      "Separar el aire del aceite.",
+      "Separar el aire del combustible.",
+      "Retener las partículas contenidas en el aire antes de entrar al carburador.",
+    ],
+    answer: 2, 
+  },
+  {
+    question: "La falta de presión de los neumáticos produce:",
+    options: [
+      "Desgaste del centro de la banda de rodamientos.",
+      "Desgaste de los costados de la banda de rodamientos.",
+      "Ninguna de las anteriores.",
+    ],
+    answer: 1, 
+  },
+  {
+    question: "¿Cuándo los conductores deben mantenerse atentos a las condiciones del tránsito del momento?",
+    options: [
+      "Siempre.",
+      "Sólo en días de lluvia y niebla.",
+      "Sólo en la noche",
+    ],
+    answer: 0, 
+  },
+  {
+    question: "Una persona puede manejar un vehículo bajo la influencia del alcohol:",
+    options: [
+      "Nunca",
+      "Sólo de día.",
+      "Sin estar ebrio.",
+    ],
+    answer: 0, 
+  },
+  {
+    question: "En condiciones normales un vehículo podrá ser conducido marcha atrás sólo:",
+    options: [
+      "50 metros.",
+      "30 metros.",
+      "Para mantener la libre circulación o para incorporarse a ella o estacionar un vehículo.",
+    ],
+    answer: 2, 
+  },
+  {
+    question: "Los vehículos deberán circular por la mitad derecha de la calzada, salvo en el siguiente caso, entre otros:",
+    options: [
+      "En circulación rural, cuando la velocidad sea menor a 45 km/h.",
+      "En circulación urbana, cuando la velocidad sea menor a 45 km/h.",
+      "En la circulación urbana, cuando la calzada está exclusivamente señalada para el tránsito en un sentido.",
+    ],
+    answer: 2, 
+  },
+  {
+    question: "En las vías de doble tránsito los vehículos que circulen en sentido opuesto al cruzarse:",
+    options: [
+      "Deberán encender las luces bajas.",
+      "Deberán señalizar con los brazos.",
+      "No pasarán sobre el eje de la calzada demarcado o imaginado.",
+    ],
+    answer: 2, 
+  },
+  {
+    question: "El conductor de un vehículo puede sobrepasar a otro por la derecha cuando:",
+    options: [
+      "El vehículo de adelante va a virar a la derecha.",
+      "El vehículo de adelante va a virar a la izquierda.",
+      "Nunca.",
+    ],
+    answer: 1, 
+  },
+  {
+    question: "No se podrá adelantar en el siguiente caso:",
+    options: [
+      "Al aproximarse un camión.",
+      "Cuando existe eje discontinuo.",
+      "Al aproximarse a la cima de una cuesta.",
+    ],
+    answer: 2, 
+  },
+  {
+    question: "¿Cuál es la distancia que debe mantener un conductor con respecto al vehículo de adelante?",
+    options: [
+      "30 metros.",
+      "100 metros.",
+      "Una distancia razonable y prudente.",
+    ],
+    answer: 2, 
+  },
+  {
+    question: "Cuando los vehículos circulan en caravana o convoy la distancia entre los vehículos será:",
+    options: [
+      "Entre 1 a 4 metros.",
+      "La suficiente para que cualquier vehículo que los adelante pueda ocupar la vía sin peligro.",
+      "Ninguna, no se puede circular en carabana  o convoy.",
+    ],
+    answer: 1, 
+  },
+  {
+    question: "¿Qué deberá hacer un conductor al iniciar un viraje a la derecha?",
+    options: [
+      "Acercarse lo más a la izquierda posible.",
+      "Hacerlo desde la pista central.",
+      "Acercarse lo más a la derecha posible.",
+    ],
+    answer: 2, 
+  },
+  {
+    question: "¿Qué deberá hacer un conductor al iniciar un viraje a la izquierda desde una vía de doble tránsito?",
+    options: [
+      "Aproximarse al costado derecho del eje o de la vía por donde transita.",
+      "Ubicarse al lado izquierdo del eje de la calzada.",
+      "Acercarse lo más a la derecha posible.",
+    ],
+    answer: 0, 
+  },
+  {
+    question: "Se prohíbe efectuar viraje en 'U' en el siguiente caso:",
+    options: [
+      "A mitad de la cuadra.",
+      "A 30 metros de una curva.",
+      "En los pasos de peatones.",
+    ],
+    answer: 2, 
+  },
+  {
+    question: "Para señalizar con el brazo el viraje a la izquierda, se coloca el brazo:",
+    options: [
+      "Extendido horizontalmente.",
+      "En ángulo recto hacia arriba.",
+      "Hacia abajo.",
+    ],
+    answer: 0, 
+  },
+  {
+    question: "Para señalizar con el brazo la disminución de velocidad o detención del vehículo se debe poner:",
+    options: [
+      "El brazo extendido horizontalmente.",
+      "El brazo en ángulo recto hacia arriba.",
+      "El brazo extendido hacia abajo.",
+    ],
+    answer: 2, 
+  },
+  {
+    question: "¿Cuándo se podrán transportar materiales peligrosos en vehículos de alquiler o en los destinados al transporte colectivo?",
+    options: [
+      "Cuando vayan en un envase firme.",
+      "Nunca.",
+      "Sólo cuando el vehículo lleve pocos pasajeros.",
+    ],
+    answer: 1, 
+  },
+  {
+    question: "El color de las luces que proyecten hacia delante los vehículos deben ser:",
+    options: [
+      "Rojas y blancas.",
+      "Blancas o amarillas.",
+      "Rojas o blancas.",
+    ],
+    answer: 1, 
+  },
+  {
+    question: "De qué color deben ser las luces de viraje traseras:",
+    options: [
+      "Blanca.",
+      "Rojas o amarillas.",
+      "Verdes.",
+    ],
+    answer: 1, 
+  },
+  {
+    question: "¿Qué focos o luces se prohíben?",
+    options: [
+      "Los neblineros.",
+      "Los busca-caminos.",
+      "Todos los que induzcan a error en la conducción.",
+    ],
+    answer: 2, 
+  },
+  {
+    question: "Los vehículos deberán llevar encendidas las luces reglamentarias desde:",
+    options: [
+      "Media hora antes de la puesta del sol, hasta media hora antes de su salida.",
+      "Media hora después de la puesta del sol hasta media hora antes de su salida.",
+      "Ninguna de las anteriores.",
+    ],
+    answer: 1, 
+  },
+  {
+    question: "¿Cuándo se puede hacer uso del aparato sonoro en zona rural?",
+    options: [
+      "Sólo en caso necesario.",
+      "Al llegar a una curva.",
+      "Al entrar a un tunel.",
+    ],
+    answer: 0, 
+  },
+  {
+    question: "Los vehículos que tengan sus neumáticos con sus bandas de rodaduras desgastadas:",
+    options: [
+      "Podrán circular sólo de noche.",
+      "Podrán circular sólo en días despejados.",
+      "No podrán circular.",
+    ],
+    answer: 2, 
+  },
+  {
+    question: "¿Cuántos sistemas de freno debe tener un vehículo motorizado?",
+    options: [
+      "A lo menos dos, independientes entre sí.",
+      "Dos conectados entre sí.",
+      "A lo menos uno",
+    ],
+    answer: 0, 
+  },
+  {
+    question: "¿Qué tipo de vehículo deben llevar luces amarillas frontales que indiquen claramente ancho y altura máxima del vehículo?",
+    options: [
+      "Todos los vehículos.",
+      "Sólo los de carga.",
+      "Los vehículos de 2 o más metros de ancho.",
+    ],
+    answer: 2, 
+  },
+  {
+    question: "¿Qué luces debe llevar el vehículo en las vías públicas urbanas?",
+    options: [
+      "Luces altas.",
+      "Luces bajas.",
+      "Cualquier tipo de luz.",
+    ],
+    answer: 1, 
+  },
+  {
+    question: "Cuándo se circule de noche por caminos y vías rurales con luces encendidas y no se encuentre próximo ningún otro vehículo se utilizan luces:",
+    options: [
+      "Altas y bajas.",
+      "Altas.",
+      "Bajas.",
+    ],
+    answer: 1, 
+  },
+  {
+    question: "¿Qué tipo de luces no se deben usar cuando el vehículo se encuentre en movimiento?",
+    options: [
+      "De estacionamiento.",
+      "De freno.",
+      "De viraje.",
+    ],
+    answer: 0, 
+  },
+  {
+    question: "¿En qué parte del tunel se puede hacer uso del aparato sonoro?",
+    options: [
+      "A la entrada.",
+      "A la salida.",
+      "En ninguna parte.",
+    ],
+    answer: 2, 
+  },
+  {
+    question: "Las características que deben cumplir los vidrios de seguridad en un vehículo son:",
+    options: [
+      "Permitir relativa visibilidad del interior.",
+      "Permitir perfecta visibilidad del exterior.",
+      "Permitir perfecta visibilidad desde y hacia el interior del vehículo.",
+    ],
+    answer: 2, 
+  },
+  {
+    question: "¿En qué condiciones debe estar la rueda de repuesto?",
+    options: [
+      "En buen estado.",
+      "Redibujada.",
+      "Recauchada lisa.",
+    ],
+    answer: 0, 
+  },
+  {
+    question: "De los siguientes elementos, ¿Cuáles deben portarse en los vehículos de locomoción colectiva y de carga?",
+    options: [
+      "Sólo botiquín, dos cuñas de seguridad y chaleco reflectante.",
+      "Botiquín, dos cuñas de seguridad, triangulo reflectante, extintor de incendio y chaleco reflectante.",
+      "Sólo botiquín, dos cuñas de seguridad, chaleco reflectante y extintor de incendio",
+    ],
+    answer: 1, 
+  },
+  {
+    question: "La profundidad mínima de la banda de redamiento de los neumáticos de taxis deben ser de:",
+    options: [
+      "3 milímetros.",
+      "2 milímetros.",
+      "1.6 milímetros.",
+    ],
+    answer: 2, 
+  },
+  {
+    question: "En caso de un servicio de transporte público interurbano de pasajeros, ¿Cuánto tiempo como mínimo debe mantenerse los registros del tacógrafo o dispositivo electrónico equivalente?",
+    options: [
+      "30 días.",
+      "60 días.",
+      "90 días.",
+    ],
+    answer: 1, 
+  },
+  {
+    question: "Adelantamiento es la maniobra efectuada:",
+    options: [
+      "Por el costado izquierdo del eje de la calzada.",
+      "Por la berma del costado derecho.",
+      "Por el costado derecho del eje de la calzada.",
+    ],
+    answer: 0, 
+  },
+  {
+    question: "Cruce regulado es aquel que existe:",
+    options: [
+      "Señal pare o ceda el paso.",
+      "Semáforo intermitente.",
+      "Semáforo funcionando normalmente o carabinero dirigiendo el tránsito.",
+    ],
+    answer: 2, 
+  },
+  {
+    question: "Derecho preferente de paso es:",
+    options: [
+      "La prerogativa de un peatón o conductor de un vehículo para proseguir su marcha.",
+      "Virar careciendo de preferencia.",
+      "Virar a la izquierda sin detener la marcha.",
+    ],
+    answer: 0, 
+  },
+  {
+    question: "El eje de la calzada es:",
+    options: [
+      "La línea perpendicular a la calzada demarcada o imaginaria que determina las áreas de tránsito opuesto.",
+      "La línea longitudinal a la calzada demarcada o imagimaria que determina las áreas de tránsito opuesto.",
+      "La línea longitudinal formada por la prolongación de las lineas de edificación.",
+    ],
+    answer: 1, 
+  },
+  {
+    question: "Estacionar es:",
+    options: [
+      "Detener momentáneamente un vehículo en la vía pública con o sin el conductor dentro de él.",
+      "Ubicar el vehículo en un lugar determinado.",
+      "Paralizar un vehículo en la vía pública, con o sin el conductor, por un período mayor que el necesario para dejar o recibir pasajeros.",
+    ],
+    answer: 2, 
+  },
+  {
+    question: "Intersección es:",
+    options: [
+      "El área común de calzadas que no se cruzan o divergen.",
+      "El área común de calzadas que se cruzan o convergen.",
+      "Ninguna de las anteriores.",
+    ],
+    answer: 1, 
+  },
+  {
+    question: "Línea de detención de vehículo es:",
+    options: [
+      "La línea transversal a la calzada demarcada o imaginaria ubicada antes de un paso para peatones o de una intersección.",
+      "El paso de cebra.",
+      "La línea imaginaria ubicada a menos de un metro después del paso de peatones.",
+    ],
+    answer: 0, 
+  },
+  {
+    question: "Paso de peatones es:",
+    options: [
+      "La senda de seguridad formada por la prolongación imaginaria o demarcada de las aceras.",
+      "La senda formada por la prolongación de las lineas de detención.",
+      "La senda de seguridad en la calzada señalizada conforme al reglamento.",
+    ],
+    answer: 2, 
+  },
+  {
+    question: "Sobrepasar es:",
+    options: [
+      "Situarse detrás de un vehículo sobrepasando el eje de la calzada",
+      "Pasar a otro u otros vehículos en el mismo sentido sin traspasar el eje de la calzada.",
+      "Situarse delante de otro vehículo traspasando el eje de la calzada.",
+    ],
+    answer: 1, 
+  },
+]  
