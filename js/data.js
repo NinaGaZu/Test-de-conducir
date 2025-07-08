@@ -403,4 +403,94 @@ export const questions = [
     ],
     answer: 1, // Cambiado de 2 a 1 (índice de "Detener inmediatamente el vehículo y el motor")
   },
+  {
+    question: "Circulando con el vehículo se detecta que el motor se sobrecalienta, ello se puede deber a:",
+    options: [
+      "Circuito de refrigeración obstruido.",
+      "Insuficiente paso de agua caliente al radiador de la calefacción.",
+      "Batería con baja carga.",
+    ],
+    answer: 0, 
+  },
+  {
+    question: "Indique el modo más simple de limpiar los bornes sulfatados de la batería:",
+    options: [
+      "Acido sulfurico.",
+      "Agua con bicarbonato.",
+      "Agua destilada.",
+    ],
+    answer: 1, 
+  },
+  {
+    question: "Si durante la marcha del vehículo se desconecta el cable de bujía:",
+    options: [
+      "El motor no funciona.",
+      "El motor pierde fuerza.",
+      "El motor gira la mitad de las revoluciones normales.",
+    ],
+    answer: 1, 
+  },
+  {
+    question: "En una pendiente (bajada) pronunciada se debe:",
+    options: [
+      "Utilizar permanentemente el freno de pie.",
+      "Enganchar el cambio de velocidad correspondiente.",
+      "Presionar el pedal de embrague.",
+    ],
+    answer: 1, 
+  },
+  {
+    question: "Cuando el tubo de escape expele humo azul significa que el vehículo está:",
+    options: [
+      "Mal carburado.",
+      "Con motor fuera de punto en el encendido.",
+      "Quemando aceite.",
+    ],
+    answer: 2, 
+  },
+  {
+    question: "Si el motor está sobrecalentado por falta de agua en el sistema de refrigeración:",
+    options: [
+      "Se le agrega agua lentamente con el motor funcionando.",
+      "No se le agrega agua.",
+      "Se le agrega agua con el motor detenido.",
+    ],
+    answer: 0,
+  },
+  {
+    question: "Al subor una cuesta en un cambio de velocidad no adecuado se produce:",
+    options: [
+      "Falla en el sistema de frenos.",
+      "Falla en la caja de cambios.",
+      "Exceso de consumo de combustible.",
+    ],
+    answer: 2,  
+  },
+  {
+    question: "Cuando un neumático delantero tiene baja presión:",
+    options: [
+      "La dirección del vehículo tiende hacia un lado.",
+      "El motor pierde potencia.",
+      "Se sobrecalienta el motor.",
+    ],
+    answer: 0, 
+  },
+  {
+    question: "El que los frenos rocen puede deberse a:",
+    options: [
+      "Mala regulación del pedal de freno.",
+      "La falta del líquido de freno.",
+      "Mala regulación de balatas o pastillas.",
+    ],
+    answer: 2, 
+  },
+  {
+    question: "Para que las bandas de los neumaticos se desgasten en forma pareja se deben efectuar:",
+    options: [
+      "Un recauchado cada 10.000 kilómetros.",
+      "Una rotación periódica.",
+      "Un redibujado cada 15.000 kilómetros.",
+    ],
+    answer: 1, 
+  },
 ]
