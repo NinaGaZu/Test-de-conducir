@@ -908,4 +908,256 @@ export const questions = [
     ],
     answer: 1, 
   },
+  {
+    question: "En el cruce no regulado, ¿qué vehículo deberá ceder el derecho preferente de paso?",
+    options: [
+      "El que llega primero al cruce.",
+      "El de la derecha con respecto al que se acerque por la izquierda.",
+      "El de la izquierda con respecto al que se acerque por la derecha.",
+    ],
+    answer: 2, 
+  },
+  {
+    question: "Un conductor, al enfrentar un signo 'PARE', deberá: ",
+    options: [
+      "Proseguir su marcha.",
+      "Detenerse.",
+      "Encender luces altas.",
+    ],
+    answer: 1, 
+  },
+  {
+    question: "Un conductor, al enfrentar un signo 'CEDA EL PASO', deberá:",
+    options: [
+      "Detenerse siempre.",
+      "Seguir a la misma velocidad.",
+      "Reducir la velocidad y detenerse si fuese necesario.",
+    ],
+    answer: 2, 
+  },
+  {
+    question: "Un vehículo que se incorpore a la circulación desde un garage particular, carece del derecho preferente de paso: ",
+    options: [
+      "Cuando el vehículo es un camión.",
+      "Siempre.",
+      "Ninguna de las anteriores.",
+    ],
+    answer: 1, 
+  },
+  {
+    question: "Cuando se aproxima un vehículo de emergencia haciendo uso de sus señales audibles y visibles en el mismo sentido, el conductor deberá:",
+    options: [
+      "Acelerar y circular delante del vehículo de emergencia.",
+      "Frenar bruscamente.",
+      "Conducir el vehículo lo más a la izquierda o a la derecha posible, con el objeto de despejar la vía.",
+    ],
+    answer: 2, 
+  },
+  {
+    question: "Por regla general, vehículos deberán estacionarse:",
+    options: [
+      "A la derecha de la calzada.",
+      "Al centro de la calzada.",
+      "A la izquierda de la calzada.",
+    ],
+    answer: 0, 
+  },
+  {
+    question: "Sólo se podrá estacionar al lado izquierdo de la calzada cuando:",
+    options: [
+      "La señalización lo permita.",
+      "No haya Carabineros en el lugar.",
+      "Ninguna de las anteriores.",
+    ],
+    answer: 0, 
+  },
+  {
+    question: "En la carretera, los vehículos deberán estacionarse:",
+    options: [
+      "Con la mitad derecha sobre la berma.",
+      "Sólo con la parte de atrás sobre la calzada.",
+      "Con toda su estructura sobre la berma.",
+    ],
+    answer: 2, 
+  },
+  {
+    question: "¿Cuál es la distancia máxima a la que deben estacionarse los vehículos de la cuneta?",
+    options: [
+      "20 cm.",
+      "60 cm.",
+      "30 cm.",
+    ],
+    answer: 2, 
+  },
+  {
+    question: "¿Qué deberá hacer un conductor al estacionar un vehículo motorizado?",
+    options: [
+      "Detener el motor del vehículo.",
+      "Frenerlo y detener el motor.",
+      "Frenar el vehículo.",
+    ],
+    answer: 1, 
+  },
+  {
+    question: "La distancia mínima entre un vehículo y otro al estacionarse debe ser de:",
+    options: [
+      "50 cm.",
+      "60 cm.",
+      "30 cm.",
+    ],
+    answer: 1, 
+  },
+  {
+    question: "¿A cuántos metros de un grifo para incendio y de un cuartel de bombas se puede estacionar un vehículo?",
+    options: [
+      "A menos de 6 metros y 5 metros, respectivamente.",
+      "A más de un metro y 3 metros, repectivamente.",
+      "A más de 5 metros y 10 metros, respectivamente.",
+    ],
+    answer: 2, 
+  },
+  {
+    question: "¿A cuántos metros de un cruce ferroviario a nivel se puede estacionar?",
+    options: [
+      "A más de 5 metros.",
+      "A más de 20 metros.",
+      "A menos de 20 metros.",
+    ],
+    answer: 1, 
+  },
+  {
+    question: "¿A cuantos metros de una esquina y de un signo PARE o CEDA EL PASO se puede estacionar un vehículo motorizado?",
+    options: [
+      "A más de 10 metros, en ambos casos.",
+      "A menos de 10 y 5 metros, respectivamente.",
+      "A más de 5 y 10 metros, respectivamente.",
+    ],
+    answer: 0, 
+  },
+  {
+    question: "¿Bajo qué condiciones un estacionamiento reservado puede ser ocupado por cualquier vehículo?",
+    options: [
+      "Siempre que sea el mismo tipo de vehículo.",
+      "Nunca, está totalmente prohibido.",
+      "Siempre que el conductor del vehículo permanezca en él y lo retire cuando llegue el vehículo que goce de la reserva.",
+    ],
+    answer: 2, 
+  },
+  {
+    question: "¿Cómo se deberá estacionar un vehículo cuando la vía está en subida?",
+    options: [
+      "Con las ruedas delanteras hacia la cuneta.",
+      "Con las ruedas traseras hacia la calzada.",
+      "Con las ruedas delanteras hacia la calzada.",
+    ],
+    answer: 2, 
+  },
+  {
+    question: "En un accidente, el sólo hecho de la infracción no determina:",
+    options: [
+      "La gravedad del accidente.",
+      "La responsabilidad civil del infractor.",
+      "ninguna de las anteriores.",
+    ],
+    answer: 1, 
+  },
+  {
+    question: "No estar atento a las condiciones del tránsito, constituye:",
+    options: [
+      "Presunción de responsabilidad del conductor.",
+      "Causal de cancelación de licencia.",
+      "Ninguna de las anteriores.",
+    ],
+    answer: 0, 
+  },
+  {
+    question: "En todo accidente en que se produzcan daños, el o los participantes estarán obligados a:",
+    options: [
+      "Huir del sitio del suceso.",
+      "Dar cuenta a la autoridad policial más próxima.",
+      "Llamar al servicio de ambulancias.",
+    ],
+    answer: 1, 
+  },
+  {
+    question: "Se presumirá culpabilidad del peatón que cruce la calzada en:",
+    options: [
+      "El paso de cebra.",
+      "Paso de peatones.",
+      "Lugar prohibido.",
+    ],
+    answer: 2, 
+  },
+  {
+    question: "Se presumirá culpabilidad del peatón cuando pase por:",
+    options: [
+      "Delante de un vehículo detenido habiendo tránsito libre en la vía respectiva.",
+      "Detrás del vehículo en movimiento.",
+      "Ninguna de las anteriores.",
+    ],
+    answer: 0, 
+  },
+  {
+    question: "La luz verde del semáforo indica:",
+    options: [
+      "Prevención.",
+      "Precaución.",
+      "Paso.",
+    ],
+    answer: 2, 
+  },
+  {
+    question: "La luz amarilla del semáforo indica:",
+    options: [
+      "Prevención.",
+      "Paso.",
+      "Detenerse.",
+    ],
+    answer: 0, 
+  },
+  {
+    question: "¿Qué indica la luz roja del semáforo?",
+    options: [
+      "Detención.",
+      "Precaución.",
+      "Paso.",
+    ],
+    answer: 0, 
+  },
+  {
+    question: "¿Qué condiciones debe tener el cruce para que el vehículo continúe su marcha, no obstante tenga luz verde al frente?",
+    options: [
+      "Debe existir previamente luz amarilla.",
+      "Debe existir espacio suficiente para no bloquear el cruce.",
+      "No tener el paso de cebra demarcado.",
+    ],
+    answer: 1, 
+  },
+  {
+    question: "Los vehículos que enfrenten un semáforo con luz roja y flecha verde, podrán:",
+    options: [
+      "Entrar cuidadosamente al cruce sólo para seguir en la dirección indicada en la flecha verde.",
+      "Entrar cuidadosamente al cruce para continuar directo.",
+      "Ninguna de las anteriores.",
+    ],
+    answer: 0, 
+  },
+  {
+    question: "La luz roja intermitente del semáforo indica:",
+    options: [
+      "Precaución.",
+      "Prevención.",
+      "Ceda el paso.",
+    ],
+    answer: 2, 
+  },
+  {
+    question: "La luz amarilla intermitente del semáforo indica:",
+    options: [
+      "Pare.",
+      "Peligro.",
+      "Ceda el paso.",
+    ],
+    answer: 1, 
+  },
 ]  
